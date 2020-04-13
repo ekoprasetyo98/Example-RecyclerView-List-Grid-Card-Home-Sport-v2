@@ -2,5 +2,10 @@
     <string name="app_name">Home Sport v2</string>
     <string name="nama_kegiatan">Nama Kegiatan</string>
     <string name="detail">Detail</string>
+    <string name="olahraga_di_rumah">Olahraga Di Rumah</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card">Card</string>
+    <string name="selengkapnya">selengkapnya</string>
 
 </resources>

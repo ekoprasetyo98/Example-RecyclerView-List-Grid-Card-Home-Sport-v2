@@ -33,8 +33,7 @@
 
         <TextView
             android:id="@+id/deskription"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/TextContent"
             android:ellipsize="end"
             android:maxLines="2"
             tools:text="@string/detail"/>
