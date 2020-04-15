@@ -1,4 +1,4 @@
-package com.example.homesportv2;
+package adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,6 +10,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
+import com.example.homesportv2.R;
+import com.example.homesportv2.sport;
 
 import java.util.ArrayList;
 

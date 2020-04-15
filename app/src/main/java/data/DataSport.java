@@ -1,4 +1,7 @@
-package com.example.homesportv2;
+package data;
+
+import com.example.homesportv2.R;
+import com.example.homesportv2.sport;
 
 import java.util.ArrayList;
 
@@ -34,7 +37,7 @@ public class DataSport {
 
     };
 
-    static ArrayList<sport> getListData() {
+    public static ArrayList<sport> getListData() {
         ArrayList<sport> list = new ArrayList<>();
         for (int position = 0; position < act.length; position++){
             sport olahraga = new sport();
